@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhas S R</h1>
-<h3 align="center">A passionate Aspiring Data Analyst</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhas-rjss&label=Profile%20views&color=0e75b6&style=flat" alt="suhas-rjss" /> </p>
